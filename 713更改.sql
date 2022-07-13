@@ -1,0 +1,1 @@
+ALTER TABLE yygl.yygl_user_defined_file_info ADD status INT NULL COMMENT '发布状态；0：待发布；1：已发布;';
