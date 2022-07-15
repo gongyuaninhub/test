@@ -1,2 +1,0 @@
-ALTER TABLE `yygl`.`yygl_flow_info` 
-ADD COLUMN `icon` varchar(255) NULL COMMENT '审批图标icon' AFTER `cc_users`;
