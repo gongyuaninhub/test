@@ -1,0 +1,1 @@
+DELETE FROM yygl_role WHERE update_time<'2022-08-10 18:00:00';

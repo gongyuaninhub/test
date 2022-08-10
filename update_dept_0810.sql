@@ -1,0 +1,1 @@
+UPDATE yygl_dept SET org_handle_type='' WHERE org_id IN('efc5f25a060d40c0afb5fd08d0a049c5','f401cecab32e4af099a1df030129d793');
